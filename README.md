@@ -1,4 +1,4 @@
-# Hi, I'm Abdul 👋
+# Hi, I'm Abdullah 👋
 
 🎓 Software Engineering Student at Birmingham City University
 
